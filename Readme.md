@@ -28,8 +28,8 @@ This project builds upon the DCASAM framework, integrating **Hierarchical Attent
 1. Python 3.8+ installed on your system.
 2. Clone this repository:
    ```bash
-   git clone
-   cd ABSA-DCASAM-HAN
+   git clone git@github.com:Sushanth-arava/Aspect-Based-Sentiment-Analysis.git
+   cd Aspect-Based-Sentiment-Analysis
    ```
 
 ### **Steps**
